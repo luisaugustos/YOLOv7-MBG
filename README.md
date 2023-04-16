@@ -87,4 +87,4 @@ Special Thanks to [@elloza](https://github.com/elloza) and your big server. Than
 Thanks to their great works
 * [YOLOv7](https://github.com/WongKinYiu/yolov7)
 * [SwinTransformer](https://github.com/microsoft/Swin-Transformer)
-* [VisDrone] (https://github.com/VisDrone/VisDrone-Dataset)
+* [VisDrone](https://github.com/VisDrone/VisDrone-Dataset)
