@@ -11,6 +11,7 @@ The dataset used for training consists of 5094 images, which have been resized t
 - Bounding Box Shear: ±15° Horizontal, ±15° Vertical
 
 The pre-processed dataset is available at [https://universe.roboflow.com/luis-augusto-silva-bq4bv/mosquito-suh0p/dataset/1](https://universe.roboflow.com/luis-augusto-silva-bq4bv/mosquito-suh0p/dataset/1).
+
 <a href="https://universe.roboflow.com/luis-augusto-silva-bq4bv/mosquito-suh0p">
     <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
 </a>
@@ -34,7 +35,7 @@ To run this project, you will need:
 - Python 3.x
 - PyTorch
 - OpenCV
-- YOLOv5
+- YOLOv7
 
 
 ## Install
