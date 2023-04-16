@@ -81,7 +81,7 @@ $ python3 train.py --name yolov7x_ep300_bs20_mosquito_first --batch 16 --workers
 
 This project was inspired by the [Mosquito Database](https://www02.smt.ufrj.br/~tvdigital/database/mosquito/) and built on top of the [YOLOv7](https://github.com/WongKinYiu/yolov7) implementation.
 
-Special Thanks to @elloza and your big server and thanks to all friends from ESALAB Team. 
+Special Thanks to [@elloza](https://github.com/elloza) and your big server and thanks to all friends from ESALAB Team. 
 
 ## References
 Thanks to their great works
